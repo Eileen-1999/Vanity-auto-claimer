@@ -1,8 +1,8 @@
 {
     "license": "TEST_LICENSE",
-    "token": "NTQ0NDQ1MzE4MTMzOTcyOTkz.GqoCpH.oTZ6Jj7BeZ_aFHZewe6qBDGzhhlQ9Iu2tkkxTI",
-    "guild_id": "1149805117424554014",
-    "webhook": "https://canary.discord.com/api/webhooks/1173116207851917372/vFcW1oy89v8p9ox_GLjQJ_N17JdXcNmv0hg4tZaOa53S4wlh13ZPKL5K0Yn8ftyXlcpR",
+    "token": "",
+    "guild_id": "",
+    "webhook": "",
     "threads": 20,
     "delay": 1
 
